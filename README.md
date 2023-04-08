@@ -1,5 +1,5 @@
 # Simon-Game
-# This website is live at: https://github.com/vatscode01/Simon-Game.git
+# This website is live at: https://vatscode01.github.io/Simon-Game/
 
 #Game Rules:
 The rules of playing Simon game are quite simple. Here are the basic rules:
