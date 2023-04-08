@@ -1,4 +1,7 @@
 # Simon-Game
+# This website is live at: https://github.com/vatscode01/Simon-Game.git
+
+#Game Rules:
 The rules of playing Simon game are quite simple. Here are the basic rules:
 
 1) The game consists of a circular board with four large colored buttons. Each button is associated with a unique sound.
